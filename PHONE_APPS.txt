@@ -1,4 +1,5 @@
 * GPlay: 
+    * Shade Launcher
     * Alarm Clock Beyond
     * Google Authenticator
     * Google Calendar
