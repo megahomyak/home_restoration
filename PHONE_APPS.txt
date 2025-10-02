@@ -1,0 +1,26 @@
+* GPlay: 
+    * Alarm Clock Beyond
+    * Google Authenticator
+    * Google Calendar
+    * Xodo PDF Viewer
+    * Yandex Weather
+    * Burger King (very important!)
+    * <mobile operator app>
+    * WiFi FTP Server
+    * Telegram
+    * Firefox
+    * Photo Editor (by dev.macgyver)
+    * Google Docs
+    * GMail
+    * Calculator
+    * CPU Info
+    * Trust Wallet
+    * Cake Wallet
+* Web:
+    * <bank app>
+    * F-Droid
+* F-Droid:
+    * NewPipe
+    * Fossify Gallery
+    * Fossify File Manager
+    * v2rayNG
