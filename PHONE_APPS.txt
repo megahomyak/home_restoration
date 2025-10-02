@@ -1,5 +1,12 @@
 * GPlay: 
     * Shade Launcher
+    * Firefox
+* Web:
+    * F-Droid
+* F-Droid:
+    * Termux
+    * Termux-API
+* GPlay:
     * Alarm Clock Beyond
     * Google Authenticator
     * Google Calendar
@@ -9,7 +16,6 @@
     * <mobile operator app>
     * WiFi FTP Server
     * Telegram
-    * Firefox
     * Photo Editor (by dev.macgyver)
     * Google Docs
     * GMail
@@ -19,7 +25,6 @@
     * Cake Wallet
 * Web:
     * <bank app>
-    * F-Droid
 * F-Droid:
     * NewPipe
     * Fossify Gallery
