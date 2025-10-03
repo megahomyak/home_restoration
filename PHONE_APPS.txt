@@ -1,7 +1,7 @@
 * GPlay: 
-    * Shade Launcher
     * Firefox
 * Web:
+    * https://github.com/amirzaidi/Shade (launcher)
     * F-Droid
 * F-Droid:
     * Termux
