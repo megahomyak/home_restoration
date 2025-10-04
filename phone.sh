@@ -10,7 +10,7 @@ cd si/keys/cmf1
 cp id_ed25519 id_ed25519.pub config ~/.ssh
 cp -r ../mi ~/micronotes
 cp -r ../ss ~/ss
-pkg install neovim python tree git gh
+pkg install neovim python tree git gh termux-api
 cd ~
 mkdir i
 cd i
