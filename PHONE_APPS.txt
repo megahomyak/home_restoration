@@ -3,6 +3,7 @@
 * Web:
     * https://github.com/amirzaidi/Shade (launcher)
     * F-Droid
+    * v2rayNG
 * F-Droid:
     * Termux
     * Termux-API
@@ -30,4 +31,3 @@
     * NewPipe
     * Fossify Gallery
     * Fossify File Manager
-    * v2rayNG
