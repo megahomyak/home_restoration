@@ -9,6 +9,7 @@ chmod +x shitcryption.sh
 ./shitcryption.sh si
 rm shitcryption.sh
 cd si/keys/cmf1
+mkdir ~/.ssh
 cp id_ed25519 id_ed25519.pub config ~/.ssh
 cp -r ../mi ~/micronotes
 cp -r ../ss ~/ss
