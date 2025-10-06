@@ -22,6 +22,7 @@ git clone git@github.com:megahomyak/shitcryption.git
 git clone git@github.com:megahomyak/secret_stash.git
 git clone git@github.com:megahomyak/project_manager.git
 cd dotfiles
-NOSUDO=1 ./apply.sh
-tutor
+NOSUDO=1 ./apply.sh || true
 printf 'source ~/bash_utils.sh\n' >> ~/.bashrc
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
