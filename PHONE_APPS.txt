@@ -23,6 +23,7 @@
     * CPU Info
     * Trust Wallet
     * Cake Wallet
+    * Easy Voice Recorder
 * Web:
     * <bank app>
 * F-Droid:
