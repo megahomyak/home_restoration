@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 termux-change-repo
-pkg install gpg neovim python tree git gh termux-api
+pkg install gpg neovim python tree git gh termux-api uuid-utils
 termux-setup-storage
 mv ~/storage/shared/si.tar.gpg.zstd .
 curl https://raw.githubusercontent.com/megahomyak/shitcryption/refs/heads/master/shitcryption.sh -o shitcryption.sh
